@@ -1,2 +1,0 @@
-<h1> Olá, eu sou a primeira versão do arquivo! </h1>
-<h2> Hi, eu estou sendo inserido na segunda versão. Por minha causa, haverá um novo commit! </h2>
