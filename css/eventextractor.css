@@ -1,0 +1,16 @@
+/* Remoção de margens e preenchimentos padrão dos sites */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+/* Estilização do cabeçalho */
+#logo {
+    width: 40%;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #000000;
+}
